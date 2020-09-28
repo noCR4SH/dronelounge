@@ -22,5 +22,13 @@
   "devDependencies": {
     "concurrently": "^5.3.0",
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noCR4SH/dronelounge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/noCR4SH/dronelounge/issues"
+  },
+  "homepage": "https://github.com/noCR4SH/dronelounge#readme"
 }
